@@ -1,11 +1,11 @@
 {
-    "keyboard_name": "CTRL Keyboard",
-    "manufacturer": "Massdrop Inc.",
+    "keyboard_name": "KB216 Wired Keyboard CTRL",
+    "manufacturer": "Dell Computer Corp.",
     "url": "https://www.massdrop.com/buy/massdrop-ctrl-mechanical-keyboard",
-    "maintainer": "Massdrop",
+    "maintainer": "evrardjp",
     "usb": {
-        "vid": "0x04D8",
-        "pid": "0xEED2",
+        "vid": "0x413C",
+        "pid": "0x2113",
         "device_version": "1.0.1"
     },
     "rgb_matrix": {

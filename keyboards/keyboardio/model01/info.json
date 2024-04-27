@@ -1,11 +1,11 @@
 {
-  "keyboard_name": "Model 01",
-  "manufacturer": "Keyboardio",
+  "keyboard_name": "KB216 Wired Keyboard Model 01",
+  "manufacturer": "Dell Computer Corp.",
   "url": "https://keyboard.io",
-  "maintainer": "qmk",
+  "maintainer": "evrardjp",
   "usb": {
-    "vid": "0x1209",
-    "pid": "0x2301",
+    "vid": "0x413C",
+    "pid": "0x2113",
     "device_version": "0.0.1"
   },
   "rgb_matrix": {
